@@ -5,7 +5,7 @@ import java.sql.SQLOutput;
 public class hello {
     int a =0;
     int b =1;
-    int c =2;
+    int d = 2;
     public static void main(String[] args) {
         System.out.println("haha");
     }
